@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title></title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://devoltapromeuap.com.br/"/>
+  <updated>2018-09-04T00:21:30.727Z</updated>
+  <id>http://devoltapromeuap.com.br/</id>
+  
+  <author>
+    <name>Renides Eller - faleconosco@devoltapromeuap.com.br</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Inauguração</title>
+    <link href="http://devoltapromeuap.com.br/2018/09/01/inauguracao/"/>
+    <id>http://devoltapromeuap.com.br/2018/09/01/inauguracao/</id>
+    <published>2018-09-02T02:58:45.000Z</published>
+    <updated>2018-09-04T00:21:30.727Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Olá, pessoal!! Hoje é inauguração!! Uhuuuu… =P&lt;/p&gt;
+&lt;img src=&quot;/2018/09/01/inauguracao/inauguracao.jpg&quot; title=&quot;Inauguracao&quot;&gt;
+&lt;p&gt;Quero agradecer…&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Quarto" scheme="http://devoltapromeuap.com.br/categories/Quarto/"/>
+    
+      <category term="Suíte" scheme="http://devoltapromeuap.com.br/categories/Quarto/Suite/"/>
+    
+      <category term="Sala" scheme="http://devoltapromeuap.com.br/categories/Sala/"/>
+    
+      <category term="Cozinha" scheme="http://devoltapromeuap.com.br/categories/Cozinha/"/>
+    
+    
+      <category term="Inauguração" scheme="http://devoltapromeuap.com.br/tags/Inauguracao/"/>
+    
+      <category term="Primeiro Post" scheme="http://devoltapromeuap.com.br/tags/Primeiro-Post/"/>
+    
+  </entry>
+  
+</feed>
