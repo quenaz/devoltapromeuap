@@ -1,77 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>http://devoltapromeuap.com.br/</loc>
-  <lastmod>2018-09-02T14:46:00+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>http://devoltapromeuap.com.br/archives/</loc>
-  <lastmod>2018-09-02T14:46:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://devoltapromeuap.com.br/about/</loc>
-  <lastmod>2018-09-02T14:46:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://devoltapromeuap.com.br/2018/09/01/inauguracao/</loc>
-  <lastmod>2018-09-02T14:46:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://devoltapromeuap.com.br/categories/Cozinha/</loc>
-  <lastmod>2018-09-02T14:46:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://devoltapromeuap.com.br/categories/Quarto/</loc>
-  <lastmod>2018-09-02T14:46:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://devoltapromeuap.com.br/categories/Quarto/Suite/</loc>
-  <lastmod>2018-09-02T14:46:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://devoltapromeuap.com.br/categories/Sala/</loc>
-  <lastmod>2018-09-02T14:46:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://devoltapromeuap.com.br/tags/Inauguracao/</loc>
-  <lastmod>2018-09-02T14:46:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://devoltapromeuap.com.br/tags/Primeiro-Post/</loc>
-  <lastmod>2018-09-02T14:46:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://devoltapromeuap.com.br/archives/2018/09/</loc>
-  <lastmod>2018-09-02T14:46:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://devoltapromeuap.com.br/archives/2018/</loc>
-  <lastmod>2018-09-02T14:46:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://devoltapromeuap.com.br/about/index.html</loc>
-  <lastmod>2018-09-02T14:46:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://devoltapromeuap.com.br/2018/09/07/1/</loc>
+    
+    <lastmod>2018-09-08T16:46:56.079Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://devoltapromeuap.com.br/about/index.html</loc>
+    
+    <lastmod>2018-09-08T15:05:39.627Z</lastmod>
+    
+  </url>
+  
 </urlset>
